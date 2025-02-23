@@ -117,6 +117,6 @@ Key objectives of error messages are:
 
 ## Conclusion
 
-Writing effective UI messages is essential for creating a user-friendly experience. Both **success** and **error** messages play a pivotal role in ensuring that users feel guided, informed, and confident when interacting with an interface.
+Good UI messages help users understand what's happening and what to do next. Whether showing **success** or **errors**, messages should be clear and simple, action-focused, and friendly.
 
-By following best practices—such as being clear, concise, and empathetic—you can help users navigate your application smoothly, reduce frustration, and build trust in your product. A thoughtful approach to UI messaging enhances usability and contributes to a more positive and seamless user journey.
+Remember: The right message at the right time makes your product easier and more pleasant to use.
