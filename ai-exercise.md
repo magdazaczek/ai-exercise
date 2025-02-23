@@ -66,7 +66,7 @@ Follow these tips to make sure your success messages have all required component
 
 <!-- changed steps to bullet points, added introduction,  -->
 
-### Best Practices and Examples
+### Best practices and examples
 
 - **Be concise and clear**:  
   *"Your payment has been processed."*  
