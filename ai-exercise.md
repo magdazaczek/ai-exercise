@@ -80,9 +80,9 @@ Success messages have 3 goals:
 
 ---
 
-## Error Messages
+## Error messages
 
-### Goals of Error Messages
+### Goals of error messages
 
 Key objectives of error messages are:
 
@@ -91,14 +91,14 @@ Key objectives of error messages are:
 - **Guidance**: Provide actionable steps to fix the problem.  
 - **Empathy**: Use friendly language to reduce frustration.  
 
-### Components of Useful Error Messages
+### Components of useful error messages
 
 - Clear identification of the issue (statement explaining what went wrong)  
 - Cause explanation (if applicable)  
 - Actionable solution (steps to resolve the problem)  
 - Reassurance (acknowledgement of the user's frustration and help offer, if needed)  
 
-### Best Practices and Examples
+### Best practices and examples
 
 - **Be clear and specific**:  
   *"The email address is invalid. Enter a valid email."*  
