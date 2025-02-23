@@ -18,41 +18,53 @@ Plan:
 
 -->
 
-# How to Write Effective UI Messages: The Case of Success and Error Messages
+# How to write effective UI messages: the case of success and error messages
 
-## Introduction to Effective UI Messages
+## Introduction to effective UI messages
 
-### What UI Messages Are
+### About UI messages
 
-User Interface (UI) messages are brief notifications that provide users with feedback about their interactions with a digital product. They help users understand the outcome of their actions, guide them through tasks, and inform them of system statuses. Effective UI messages contribute significantly to the overall user experience by ensuring clarity, reducing confusion, and offering reassurance or guidance.
+User Interface (UI) messages are notifications that provide users with feedback about their interactions with a digital product. They help users understand the outcome of their actions, guide them through tasks, and inform them of system statuses.
+<!-- made it shorter, deleted unnecessary adjectives -->
 
-### Examples of UI Messages
+### Examples of UI messages
 
-- **Success Message**: *"Your profile has been updated successfully."*  
-- **Error Message**: *"Incorrect password. Please try again."*  
-- **Warning Message**: *"You are about to delete this file. This action cannot be undone."*  
-- **Informational Message**: *"New features have been added in the latest update."*  
+We can distinguish many types of UI messages. However, the most common are: 
 
-Each type of message serves a unique purpose, but this guide will focus on **success** and **error** messages—two of the most critical categories for maintaining user trust and engagement.
+- Success messages
+- Error messages
+- Warning messages
+- Empty state messages
+- Placeholders
+- 404:Page not found
 
----
+In the next part of this article, you'll learn about the most popular UI messages, which are **success** and **error** messages.
 
-## Success Messages
+<!-- Added introduction, added more examples of UI messages, deleted "Informational messages", deleted examples as they weren't best  -->
 
-### Goals of Success Messages
 
-Success messages confirm that an action has been completed as intended. Their primary goals include:
+## Success messages
 
-- **Acknowledgment**: Confirming the successful completion of a task.  
-- **Positive Reinforcement**: Providing users with a sense of accomplishment.  
-- **Guidance**: Suggesting logical next steps, if applicable.  
+### Goals of success messages
 
-### Components of Good Success Messages
+Why are success messages so important? They have 3 goals:
 
-1. **Clear Confirmation** – Directly state that the action was successful.  
-2. **Relevance** – Include context related to the user’s action.  
-3. **Next Steps** – Offer additional actions the user can take, if necessary.  
-4. **Positive Tone** – Use encouraging and friendly language.  
+- **Provide certainty**: The message confirms to the user that the action completed successfully and that everything is okay. 
+- **Instruct**: The message tells the user about the next optional or mandatory step. 
+- **Connect**: The message is the final piece of the process. It can add extra meaning to the action andleave users with a good positive feeling about your brand and the pleasant experience they had with it. 
+
+<!-- Rewrote, used different wording to explain goals, reduced -ing forms, applied simpler language-->
+
+### Components of good success messages
+
+Follow these tips to make sure your success messages have all required components and are understandable to users. 
+
+- Clear confirmation (statement that the action was successful)
+- Relevance (context related to the user's action)
+- Next steps (additional actions the user can take)
+- Positive tone (user-friendly language)
+
+<!-- changed steps to bullet points, added introduction,  -->
 
 ### Best Practices and Examples
 
